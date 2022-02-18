@@ -1,0 +1,68 @@
+
+1. headings:h1-h6
+
+h1 tag used only once in web page- It is better to use only once.
+<h1>hello</h1> --> whole thing is Element
+
+2. paragraph
+
+p tag is block tag and starts to new line without br tag
+
+3. tags  - wvwrything is tag either h1 p or any
+4.element = tags+content  ex: <h1>hello</h1>
+
+5. self closing tags: The tag doesnt need any closing tag.
+   input tag
+   meta tag
+   br tag
+
+6. attributes: which gives additional information
+   src.class, id,href.style,alt
+   every elements we do have attributes.
+
+
+7. Creating images-2 ways
+
+   Absolute path: whatever images are taing from online that is absolute path
+           Copy image aqddress
+
+   Realative Path: image address is present in local folder
+
+   alt: 
+
+8. ordered list 
+   default is number-1
+   types : A a I i 1 none
+
+9. unordered list 
+   default is disc
+   types: circle disc square none
+
+10. em - em tag used to stress or to attract the user
+
+    strong = to make bold or strong, it amkes strong warning
+
+    i-italic
+    b- bold tag
+    br- break theline or page
+    hr- for horizontal line
+
+
+11. block - evary block line starts from new line
+    block tags- div pre h1-h6 p 
+
+12. inline- it doesnt strats from new line, the line continues
+    we caN NOT GIVE WIDTH AND HEIGHT MANUALLY
+    inline tags- img button....
+
+13. forms- form is a container to take input field
+
+
+    why label? sometimes buttons are too small if the user unable to click on it ,at that time labels helps to check that box
+
+    value of id in input and for in label should be same
+
+    action - which takes you to the next page...
+
+14. How to add google fonts?
+    search google font - click on style - copy font-family
